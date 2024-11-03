@@ -12,7 +12,7 @@ I am currently a Research Fellow at Harvard University in the [Computational Rob
 My research focuses on XX.
 
 
-*Please feel free reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
+*Please feel free to reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
 
 ## News
 - __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
@@ -20,7 +20,7 @@ My research focuses on XX.
 - __\[2023/10]__ My first-author paper will appear in NeurIPS 2023 Workshop on SyntheticData4ML
 - __\[2023/09]__ I joined NASA JPL as a Visiting Researcher, working on [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/)
 
-<div><h2>Publications</h2></div>
+<div><h2>Research</h2></div>
 <div><p>(* equal contribution)</p></div>
 <div id="publications">
     <article class="pub">
@@ -41,7 +41,7 @@ My research focuses on XX.
             <h4 class="authors">
                  <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
-            <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
+            <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS) 2023</p>
             [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">PDF</a>]
         </div>
     </article>
