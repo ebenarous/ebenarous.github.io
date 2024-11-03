@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About
+I am currently a Research Fellow at Harvard University in the [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu), advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu). I completed by MS at ETH Zürich, advised by Prof. [Thomas Hofmann](https://da.inf.ethz.ch/people/ThomasHofmann/) in the [Data Analytics Lab](https://da.inf.ethz.ch). I also spent some time on the [RACER challenge](https://www.youtube.com/watch?v=orLa0mBOKHM) at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov), working on perception for autonomous navigation in extreme off-road terrains.
 
-Hi! I'm currently a Research Fellow at Harvard University in the [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu), advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu). I completed by MS at ETH Zürich, advised by Prof. [Thomas Hofmann](https://da.inf.ethz.ch/people/ThomasHofmann/) in the [Data Analytics Lab](https://da.inf.ethz.ch).
 My research focuses on XX.
 
-I spent some time on the [RACER challenge](https://www.youtube.com/watch?v=orLa0mBOKHM) at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov), working on perception for autonomous navigation in extreme off-road terrains.
+
+*Please feel free reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
 
 ## News
 - __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
@@ -20,3 +22,5 @@ I spent some time on the [RACER challenge](https://www.youtube.com/watch?v=orLa0
 
 ### Research
 (* equal contribution)
+
+
