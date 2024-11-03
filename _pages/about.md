@@ -26,14 +26,14 @@ My research focuses on XX.
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article class="pub">
-        <a classa="pub_image"><img src="files/publications/shape_bias/logo"></a>
+        <a classa="pub_image"><img src="files/publications/shape_bias/logo.png"></a>
         <div class="pub_text">
             <h3 class="papertitle">Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization</h3>
             <h4 class="authors">
                  Elior Benarous, Sotiris Anagnostidis, Luca Biggio, Thomas Hofmann 
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
-            [<a href="https://arxiv.org/abs/2401.01862">paper</a>]
+            [<a href="https://arxiv.org/abs/2311.06224">paper</a>]
         </div>
     </article>
 </div>
