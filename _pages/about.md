@@ -12,14 +12,11 @@ My research focuses on XX.
 
 I spent some time at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov), working on perception for autonomous navigation in extreme off-road terrains in the [RACER challenge](https://www.youtube.com/watch?v=orLa0mBOKHM).
 
-News
-======
-
+## News
 - __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
 - __\[2024/04]__ I joined Harvard as a Research Fellow focusing on Diffusion Models
 - __\[2023/10]__ My first-author paper will appear in NeurIPS 2023 Workshop on SyntheticData4ML
 - __\[2023/09]__ I joined NASA JPL as a Visiting Researcher, working on [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/)
 
-Research
-======
+### Research
 (* equal contribution)
