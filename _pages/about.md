@@ -20,10 +20,8 @@ My research focuses on XX.
 - __\[2023/10]__ My first-author paper will appear in NeurIPS 2023 Workshop on SyntheticData4ML
 - __\[2023/09]__ I joined NASA JPL as a Visiting Researcher, working on [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/)
 
-### Research
-(* equal contribution)
-
-<div><h1>Publications</h1></div>
+<div><h2>Publications</h2></div>
+<div><p>(* equal contribution)</p></div>
 <div id="publications">
     <article class="pub">
         <a classa="pub_image"><img src="files/publications/shape_bias/logo.png"></a>
@@ -44,7 +42,6 @@ My research focuses on XX.
                  <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
-            [<a href="https://arxiv.org/abs/2311.06224">paper</a>]
             [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">PDF</a>]
         </div>
     </article>
