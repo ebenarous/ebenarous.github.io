@@ -30,7 +30,7 @@ My research focuses on XX.
         <div class="pub_text">
             <h3 class="papertitle">Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization</h3>
             <h4 class="authors">
-                 <b>E. Benarous</b>, S. Anagnostidis, L. Biggio, T. Hofmann 
+                 <u>E. Benarous</u>, S. Anagnostidis, L. Biggio, T. Hofmann 
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
             [<a href="https://arxiv.org/abs/2311.06224">paper</a>]
@@ -41,11 +41,11 @@ My research focuses on XX.
         <div class="pub_text">
             <h3 class="papertitle">Enforcing Style Invariance in Patch Localization</h3>
             <h4 class="authors">
-                 <b>E. Benarous</b>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
+                 <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
             [<a href="https://arxiv.org/abs/2311.06224">paper</a>]
-            [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf.pdf" target="_blank">PDF</a>]
+            [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">PDF</a>]
         </div>
     </article>
 </div>
