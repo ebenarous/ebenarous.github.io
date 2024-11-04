@@ -31,7 +31,7 @@ My research focuses on XX.
                  <u>E. Benarous</u>, S. Anagnostidis, L. Biggio, T. Hofmann 
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS)</p>
-            [<a href="https://arxiv.org/abs/2311.06224">paper</a>]
+            [<a href="https://arxiv.org/abs/2311.06224">Paper</a>]
         </div>
     </article>
     <article class="pub">
@@ -41,8 +41,7 @@ My research focuses on XX.
             <h4 class="authors">
                  <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
-            <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS) 2023</p>
-            [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">PDF</a>]
+            [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">Paper</a>]
         </div>
     </article>
 </div>
