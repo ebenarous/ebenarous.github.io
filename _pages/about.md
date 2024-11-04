@@ -41,6 +41,7 @@ My research focuses on XX.
             <h4 class="authors">
                  <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
+            <p class="conference">Preprint</p>
             [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">Paper</a>]
         </div>
     </article>
