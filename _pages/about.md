@@ -14,7 +14,8 @@ I am broadly interested in data-centric methods for generative modelling and rep
 2. How can we leverage high-quality synthetic data in data-scarce environments?
 3. How should an intelligent agent represent its environment across different modalities?
 
-\\*Please feel free to reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
+<br/><br/>
+\*Please feel free to reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
 
 ## News
 - __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
