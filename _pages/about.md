@@ -46,7 +46,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
                  <u>E. Benarous</u>*, D. Brunner*, J. Manz*, F. Yang*, T. Hofmann
             </h4>
             <p class="conference">Preprint, 2022</p>
-            [<a href="files/publications/sipl//Enforcing Style Invariance in Patch Localization.pdf" target="_blank">Paper</a>]
+            [<a href="files/publications/sipl/Enforcing Style Invariance in Patch Localization.pdf" target="_blank">Paper</a>]
         </div>
     </article>
 </div>
