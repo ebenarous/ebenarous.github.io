@@ -17,7 +17,6 @@ I am broadly interested in data-centric methods for generative modelling and rep
 <br/><br/>
 \
 *Please feel free to reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
-see [CV](/files/publications/CV/CV_Elior_Benarous.pdf) here
 
 ## News
 - __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
