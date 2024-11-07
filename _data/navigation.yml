@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: files/publications/CV/CV%20-%20Elior%20Benarous.pdf
     
   #- title: "Guide"
   #  url: /markdown/
