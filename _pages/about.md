@@ -11,7 +11,7 @@ I am currently a Research Fellow at Harvard University in the [Computational Rob
 
 I am broadly interested in data-centric methods for generative modelling and representation learning, particularly through the lens of visual intelligence. My research is aimed at exploring the following axes: 
 1. How can intelligence emerge from data with little to no label?
-2. How can we leverage high-quality synthetic data in data-scarce environments?
+2. How can we leverage high-quality synthetic data in data-scarce domains?
 3. How should an intelligent agent represent its environment across different modalities?
 
 <br/><br/>
