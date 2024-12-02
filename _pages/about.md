@@ -32,7 +32,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
         <div class="pub_text">
             <h3 class="papertitle">Image-Editing Specialists: A Multi-Objective Approach for Diffusion Models</h3>
             <h4 class="authors">
-                 <u>E. Benarous</u>*, Y. Du, H. Yang
+                 <u>E. Benarous</u>, Y. Du, H. Yang
             </h4>
             <p class="conference">Preprint, 2024</p>
             [<a href="files/publications/edit_spe/Image_Editing_Specialists.pdf" target="_blank">Paper</a>]
