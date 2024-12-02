@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: "/files/CV/CV_Elior_Benarous.pdf"
+
+  - title: "Research Statement"
+    url: "/files/CV/Research_Statement.pdf"
     
   #- title: "Guide"
   #  url: /markdown/
