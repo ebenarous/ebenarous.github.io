@@ -28,7 +28,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
 <div><p>(* equal contribution)</p></div>
 <div id="publications">
     <article class="pub">
-        <a classa="pub_image"><img src="files/publications/sipl/logo.png"></a>
+        <a classa="pub_image"><img src="files/publications/edit_spe/gif_wood.gif"></a>
         <div class="pub_text">
             <h3 class="papertitle">Image-Editing Specialists: A Multi-Objective Approach for Diffusion Models</h3>
             <h4 class="authors">
