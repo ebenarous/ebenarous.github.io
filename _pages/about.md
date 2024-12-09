@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Research Fellow at Harvard University in the [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu), advised by Prof. [Heng Yang](https://hankyang.seas.harvard.edu) and Prof. [Yilun Du](https://yilundu.github.io). Prior to that, I completed my MS at ETH Zürich, advised by Prof. [Thomas Hofmann](https://da.inf.ethz.ch/people/ThomasHofmann/) in the [Data Analytics Lab](https://da.inf.ethz.ch). I also spent some time on the [RACER challenge](https://www.youtube.com/watch?v=orLa0mBOKHM) at the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov), working on perception for autonomous navigation in extreme off-road terrains.
 
 I am broadly interested in data-centric methods for generative modelling and representation learning, particularly through the lens of visual intelligence. My research is aimed at exploring the following axes: 
-1. How can intelligence emerge from data with little to no label?
+1. How can intelligence emerge from data with little to no labels?
 2. How can we leverage high-quality synthetic data in data-scarce domains?
 3. How should an intelligent agent represent its environment across different modalities?
 
