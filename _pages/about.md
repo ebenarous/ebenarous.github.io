@@ -19,7 +19,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
 *Please feel free to reach out for research, collaborations, a casual chat, or mentorship, especially if you are a junior, disadvantaged, or underrepresented student.*
 
 ## News
-- __\[2024/09]__ Our team won the MIT x AI21Labs Hackathon on agentic LLMs
+- __\[2024/09]__ Our team won the [MIT x AI21Labs Hackathon](https://www.linkedin.com/posts/dunya-baradari-007_ai-agents-agi-activity-7267605822996721668-YhXW?utm_source=share&utm_medium=member_desktop) on agentic LLMs
 - __\[2024/04]__ I joined Harvard as a Research Fellow focusing on Diffusion Models
 - __\[2023/10]__ My first-author paper will appear in NeurIPS 2023 Workshop on [SyntheticData4ML](https://neurips.cc/virtual/2023/workshop/66540)
 - __\[2023/09]__ I joined NASA JPL as a Visiting Researcher, working on [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/)
