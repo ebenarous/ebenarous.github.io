@@ -61,6 +61,3 @@ I am broadly interested in data-centric methods for generative modelling and rep
         </div>
     </article>
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenarous&label=Profile%20views&color=ce9927&style=flat" alt="ebenarous" /> </p>
-
