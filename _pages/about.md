@@ -36,6 +36,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
             </h4>
             <p class="conference">Preprint, 2024</p>
             [<a href="files/publications/edit_spe/Image_Editing_Specialists.pdf" target="_blank">Paper</a>]
+            [<a href="https://github.com/ebenarous/inductive_bias">Code (empty)</a>]
         </div>
     </article>
     <article class="pub">
@@ -47,6 +48,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
             </h4>
             <p class="conference">Advances in Neural Information Processing Systems Workshop (NeurIPS), 2023</p>
             [<a href="https://arxiv.org/abs/2311.06224">Paper</a>]
+            [<a href="https://github.com/ebenarous/inductive_bias">Code</a>]
         </div>
     </article>
     <article class="pub">
@@ -58,6 +60,7 @@ I am broadly interested in data-centric methods for generative modelling and rep
             </h4>
             <p class="conference">Preprint, 2022</p>
             [<a href="files/publications/sipl/Enforcing_Style_Invariance_in_Patch_Localization.pdf" target="_blank">Paper</a>]
+            [<a href="https://github.com/ebenarous/DeepLearning2022">Code</a>]
         </div>
     </article>
 </div>
