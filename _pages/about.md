@@ -28,14 +28,14 @@ I am broadly interested in data-centric methods for generative modelling and rep
 <div><p>(* equal contribution)</p></div>
 <div id="publications">
     <article class="pub">
-        <a classa="pub_image"><img src="files/publications/edit_spe/gif_wood.gif"></a>
+        <a classa="pub_image"><img src="files/publications/spie/gif_wood.gif"></a>
         <div class="pub_text">
-            <h3 class="papertitle">Image-Editing Specialists: An RLAIF Approach for Diffusion Models</h3>
+            <h3 class="papertitle">SPIE: Semantic and Structural Post-Training of Image Editing Diffusion Models with AI feedback</h3>
             <h4 class="authors">
                  <u>E. Benarous</u>, Y. Du, H. Yang
             </h4>
             <p class="conference">International Conference on Computer Vision Workshop (ICCV), 2025</p>
-            [<a href="files/publications/edit_spe/Image_Editing_Specialists.pdf" target="_blank">Paper</a>]
+            [<a href="files/publications/spie/SPIE.pdf" target="_blank">Paper</a>]
             [<a href="https://github.com/ebenarous/EditSpecialists">Code</a>]
         </div>
     </article>
